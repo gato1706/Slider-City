@@ -14,4 +14,4 @@ O slider permite a navegação entre imagens das cidades de Bali, Veneza, Roma e
 - **CSS**: Estilização e transições visuais.
 - **JavaScript**: Lógica para o funcionamento do slider e animações.
 
-### Para melhor visualização, o site esta hospedado nesta Url: https://fascinating-hotteok-2385ad.netlify.app/
+### Para melhor visualização, o site está hospedado nesta Url: https://fascinating-hotteok-2385ad.netlify.app/
